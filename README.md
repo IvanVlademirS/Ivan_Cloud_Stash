@@ -1,7 +1,7 @@
 #### Welcome to my CloudLabs Repo, ❗❗ReadMe:
 <pre><code>Scroll Down to view Tables: AWS Labs, GCP Labs, Azure Labs.
-Documentation, Notes, and Write-ups for my Cloud hands-on labs.
-All links mainly point to files that are either hosted in Github or my Notion Notebook view-only page(s).</code></pre>
+Contains documentation, notes, and write-ups for my Cloud hands-on labs.
+All links point to files that are either hosted in Github.</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">
