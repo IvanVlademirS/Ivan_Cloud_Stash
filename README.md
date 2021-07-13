@@ -18,20 +18,18 @@ All links point to files that are either hosted in Github.</code></pre>
 <h3 align="center">
 <a href="#"><img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </h3>
-
-| Lab Level | Topic | Write-up | Comments |
-| -------- | -------- | -------- | -------- | 
-| -------- | -------- | -------- | -------- | 
-
+<h4 align="center">
+COMMING SOON, TIMELINE = TBD
+ </h4>
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">
 <a href="#"><img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </h3>
-
-| Lab Level | Topic | Write-up | Comments |
-| -------- | -------- | -------- | -------- | 
-| -------- | -------- | -------- | -------- | 
-
+<h4 align="center">
+COMMING SOON, TIMELINE = TBD
+  </h4>
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">  <a href="#"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg "></a>
