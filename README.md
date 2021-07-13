@@ -10,7 +10,8 @@ All links point to files that are either hosted in Github.</code></pre>
 
 | Lab-Level | Topic | Write-up | Comments |
 | -------- | -------- | -------- | -------- | 
-| SAA | IAM & AWS Orgs Basics | TBD | ETA: 7/12/21 | 
+| SAA | IAM & AWS Orgs Basics | [Lab LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_IAM-Orgs-SCPs-Trails_Basics.pdf
+) | Lab date: 7/11/21, Check AWS versions if outdated | 
 | SAA | EC2, S3, CFN, CW, R53 Basics | [Lab LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_EC2-S3-CFN-CW-R53_Basics.pdf) | Lab date: 7/11/21, Check AWS versions if outdated | 
 | SAA | Initial Mult-Acc Setup Best Practices | [Lab LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_Initial_Account_Admin.pdf) | Lab date: 7/10/21, Check AWS versions if outdated | 
 
