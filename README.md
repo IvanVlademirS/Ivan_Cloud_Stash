@@ -4,9 +4,8 @@ Contains documentation, notes, and write-ups for my Cloud hands-on labs.
 All links point to files that are either hosted in Github.</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="center">
+
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-</h3>
 
 | Lab-Level | Topic | Write-up | Comments |
 | -------- | -------- | -------- | -------- | 
