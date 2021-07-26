@@ -10,6 +10,7 @@ All links point to files that are hosted in Github.</code></pre>
 
 | Lab-Level | Topic | Write-up | Comments |
 | -------- | -------- | -------- | -------- | 
+| SAA | VPC: VPC shell, mult-tier VPC’s, EBS-snapshots-instance stores, NAT. Architecture for lab: [Diagram-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/SAA_VPC-LAB_Architecture.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_VPCs_VPCshell-multi-tier-EBS-NAT_Basics.pdf) | Lab date: 7/25/21, AWS CLI version 2 | 
 | SAA | S3: Static Website, Encryption, Key Management System (KMS), Replication, PresignedURLs | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_S3-StaticWebsite-KMS-Encryption-Replication-PreSignedURL.pdf) | Lab date: 7/14/21, AWS CLI version 2 | 
 | SAA | Basics: IAM, Organizations, Service Control Policies (SCP), CloudTrail | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_IAM-Orgs-SCPs-Trails_Basics.pdf) | Lab date: 7/12/21 | 
 | SAA | Basics: EC2, S3, CloudFormation (CFN), CloudWatch, Route53 | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_EC2-S3-CFN-CW-R53_Basics.pdf) | Lab date: 7/11/21, AWS CLI version 2 | 
