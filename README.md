@@ -10,6 +10,7 @@ All links point to files that are hosted in Github.</code></pre>
 
 | Lab-Level | Topic | Write-up | Comments |
 | -------- | -------- | -------- | -------- |
+| SAA | RDS: Migrating Wordpress site to RDS, MySQL Db to RDS, Wordpress to Aurora & Aurora Serverless, using Multi-Az + Snapshots. Architecture for lab: [RDS Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/RDS_LAB_Architecture.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_RDS-Migrations%20.pdf) | Lab date: 7/21/21 |
 | SAA | Route53: Failover Routing | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_Route53-Failover.pdf) | Lab date: 7/20/21 |
 | SAA | EC2: Bootstrapping, CFN (INIT, SIGNAL, Creation), EC2 Instance Roles, Parameter Store, Logging metrics with CloudWatch Agent | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_EC2_Adv%20.pdf) | Lab date: 7/19/21 |
 | SAA | VPC: VPC shell, mult-tier VPC’s, EBS-snapshots-instance stores, NAT. Architecture for lab: [VPC Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/SAA_VPC-LAB_Architecture.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_VPCs_VPCshell-multi-tier-EBS-NAT_Basics.pdf) | Lab date: 7/18/21 | 
