@@ -10,6 +10,7 @@ All links point to files that are hosted in Github.</code></pre>
 
 | Lab-Level | Topic | Write-up | Comments |
 | -------- | -------- | -------- | -------- |
+| SAA | HA & Scaling: Creating Elastic Launch templates, ASGs, & Load Balancers. Architecture for lab: [HA & Scaling Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/HA_Scaling_Architecture.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_HA_and_Scaling%20.pdf) | Lab date: 7/25/21 |
 | SAA | EFS: Implementing EFS, using EFS with Wordpress through CFN | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_EFS-implementation%20.pdf) | Lab date: 7/22/21 |
 | SAA | RDS: Migrating Wordpress site to RDS, MySQL Db to RDS, Wordpress to Aurora & Aurora Serverless, using Multi-Az + Snapshots. Architecture for lab: [RDS Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/RDS_LAB_Architecture.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_RDS-Migrations%20.pdf) | Lab date: 7/21/21 |
 | SAA | Route53: Failover Routing | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_Route53-Failover.pdf) | Lab date: 7/20/21 |
