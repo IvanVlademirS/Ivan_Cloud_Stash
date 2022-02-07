@@ -10,6 +10,7 @@ All links point to files that are hosted in my Github.</code></pre>
 
 | Type | Topic | Write-up |
 | -------- | -------- | -------- |
+| AWS Diagrams | awsgeek Consolidated (large file, may need to download to view if browser does not load) | [Compressed PDF](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS%20GeekDiagrams_compressed.pdf) | 
 | SAA Lab | HA & Scaling: Creating Elastic Launch templates, ASGs, & Load Balancers. Architecture for lab: [HA & Scaling Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/HA_Scaling_Architecture.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_HA_and_Scaling%20.pdf) | 
 | SAA Lab| CDN: Adding a CDN to static site using S3 + CloudFront, adding HTTPS using ACM. Architecture for lab: [CloudFront Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/cdn.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_CDN.pdf) | 
 | SAA Lab| EFS: Implementing EFS, using EFS with Wordpress through CFN | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_EFS-implementation%20.pdf) | 
