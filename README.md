@@ -10,6 +10,7 @@ All links point to files that are hosted in my Github.</code></pre>
 
 | Type | Topic | Write-up |
 | -------- | -------- | -------- |
+| Security  | My AWS Security Specialty (SCS) notes | [AWS SCS-C01](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS%20Security.pdf) | 
 | AWS Diagrams | awsgeek Consolidated (large file, may need to download to view if browser does not load) | [Compressed PDF](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS%20GeekDiagrams_compressed.pdf) | 
 | SAA Lab | HA & Scaling: Creating Elastic Launch templates, ASGs, & Load Balancers. Architecture for lab: [HA & Scaling Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/HA_Scaling_Architecture.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_HA_and_Scaling%20.pdf) | 
 | SAA Lab| CDN: Adding a CDN to static site using S3 + CloudFront, adding HTTPS using ACM. Architecture for lab: [CloudFront Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/cdn.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_CDN.pdf) | 
@@ -25,9 +26,9 @@ All links point to files that are hosted in my Github.</code></pre>
 | SAA Lab| Basics: IAM, Organizations, Service Control Policies (SCP), CloudTrail | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_IAM-Orgs-SCPs-Trails_Basics.pdf) | 
 | SAA Lab| Basics: EC2, S3, CloudFormation (CFN), CloudWatch, Route53 | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_EC2-S3-CFN-CW-R53_Basics.pdf) |
 | SAA Lab| Initial Mult-Acc Setup Best Practices | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_Initial_Account_Admin.pdf) |
-| Notes | CSA Security Guidance V4 and CCSK Course Notes | [CSA Security Alliance Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/CCSK_-_Pass_010822.pdf) | 
-| Notes | AWS SkillBuilder: Cloud Audit Academy | [AWS Audit Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Cloud_Audit_Academy_-_Cloud_Agnostic_Course.pdf) | 
-| Notes | AWS SkillBuilder: Security Learning Plan | [AWS Security Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Security_Learning_Plan.pdf) | 
+| Security | CSA Security Guidance V4 and CCSK Course Notes | [CSA Security Alliance Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/CCSK_-_Pass_010822.pdf) | 
+| GRC | AWS SkillBuilder: Cloud Audit Academy | [AWS Audit Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Cloud_Audit_Academy_-_Cloud_Agnostic_Course.pdf) | 
+| Security | AWS SkillBuilder: Security Learning Plan | [AWS Security Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Security_Learning_Plan.pdf) | 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">
