@@ -6,8 +6,9 @@ All links point to files that are hosted in my Github.</code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | CSP | Type | Topic | Write-up |
-| -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- | 
 | <a href="#"><img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> | Azure  | My AI-900 notes: Azure AI Fundamentals| [AI-900](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AI%20900_compressed.pdf) | 
+| <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | AWS  | My AWS APN Technical mindmap - download file or use bottom zoom bar to view details| [mindmap](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS_APN_Technical_ivan%20notes%20-%202022.png) |
 | <a href="#"><img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> | Azure  | My AZ-900 notes: Azure Fundamentals| [AZ-900](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AZ-900.pdf) | 
 | <a href="#"><img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> | Azure  | My DP-900 notes: Azure Data Fundamentals| [DP-900](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/DB%20900-min.pdf) | 
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Security  | My AWS Security Specialty (SCS) notes | [AWS SCS-C01](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS%20Security.pdf) | 
