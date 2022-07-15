@@ -1,13 +1,22 @@
 #### ⭐Welcome to my Cloud Write-ups Repo, ❗❗ReadMe:
-<pre><code>Scroll Down to view Table: AWS, GCP, Azure.
-Contains documentation, notes, and write-ups for Cloud.
+<pre><code>Scroll Down to view Tables: projects, documentation, and write-ups for Cloud.
 All links point to files that are hosted in my Github.</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| CSP | Type | Topic | Write-up |
+| CSP | Type | Fun Fact | Article |
 | -------- | -------- | -------- | -------- | 
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Community | I was featured in the [AWS Certified Global Community](https://aws-certification.influitive.com/forum/) on Jan. 2022 as the 2021 leaderboard Champion 😎🙌 (use scroll bar at bottom to adjust view)| [Article IMAGE](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/awscertcomm-JAN2022-Champ.png) |
+
+<details>
+<summary>
+<h3 align="left">  ☁️| Foundational Write_ups </h3> 
+🔷click to expand table🔷
+</summary>
+<br>
+
+| CSP | Type | Topic | Write-up |
+| -------- | -------- | -------- | -------- | 
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Architecture | My AWS APN Technical mindmap - download file or zoom in to view details| [mindmap](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS%20APN%20Technical%20%20ivan%20notes%20-%202022.pdf) |
 | <a href="#"><img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> | Azure AI | My AI-900 notes: Azure AI Fundamentals| [AI-900](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AI%20900_compressed.pdf) | 
 | <a href="#"><img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> | Azure Core | My AZ-900 notes: Azure Fundamentals| [AZ-900](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AZ-900.pdf) | 
@@ -19,15 +28,16 @@ All links point to files that are hosted in my Github.</code></pre>
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Security | AWS SkillBuilder: Security Learning Plan | [AWS Security Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Security_Learning_Plan.pdf) | 
 | <a href="#"><img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> | Multicloud  | My GIAC GPCS, SANS SEC510 notes: Public Cloud Security (AWS, GCP, Azure) | [INDEX](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/INDEX_SANS%20SEC510%20-%20Public%20Cloud%20Security.pdf), [Appendix](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/Appendix.pdf)  | 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</details>
+
 
 <details>
 <summary>
-<h3 align="left">  📝|AWS SAA-CO2 Lab Docs </h3> 
-(click to expand table)
+<h3 align="left">  📝| AWS SAA-CO2 Lab Docs </h3> 
+🔶click to expand table🔶
 </summary>
 <br>
- 
+
  | CSP | Type | Topic | Write-up |
 | -------- | -------- | -------- | -------- | 
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | SAA Lab | HA & Scaling: Creating Elastic Launch templates, ASGs, & Load Balancers. Architecture for lab: [HA & Scaling Design-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/HA_Scaling_Architecture.png) | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWS-LABS_HA_and_Scaling%20.pdf) | 
