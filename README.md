@@ -19,8 +19,13 @@ All links point to files that are hosted in my Github.</code></pre>
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Security | AWS SkillBuilder: Security Learning Plan | [AWS Security Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Security_Learning_Plan.pdf) | 
 | <a href="#"><img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> | Multicloud  | My GIAC GPCS, SANS SEC510 notes: Public Cloud Security (AWS, GCP, Azure) | [INDEX](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/INDEX_SANS%20SEC510%20-%20Public%20Cloud%20Security.pdf), [Appendix](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/Appendix.pdf)  | 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <details>
-<summary>AWS SAA-CO2 Lab Docs (click to expand)</summary>
+<summary>
+<h3 align="left">  📝|AWS SAA-CO2 Lab Docs </h3> 
+(click to expand table)
+</summary>
 <br>
  
  | CSP | Type | Topic | Write-up |
@@ -41,9 +46,6 @@ All links point to files that are hosted in my Github.</code></pre>
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | SAA Lab| Initial Mult-Acc Setup Best Practices | [Lab-LINK](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/AWSLABS_SAA_Initial_Account_Admin.pdf) |
  
 </details>
-
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
