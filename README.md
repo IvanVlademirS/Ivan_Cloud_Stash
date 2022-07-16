@@ -10,7 +10,7 @@ All links point to files that are hosted in my Github.</code></pre>
 
 <details>
 <summary>
-<h4 align="left">  ☁️| Foundational Write_ups </h4> 
+<h4 align="left">  ☁️| Foundational Write_ups</h4>
 🔷click to expand🔷
 </summary>
 <br>
@@ -33,7 +33,7 @@ All links point to files that are hosted in my Github.</code></pre>
 
 <details>
 <summary>
-<h4 align="left">  📝| AWS SAA-CO2 Lab Docs </h4> 
+<h4 align="left">  📝| AWS SAA-CO2 Lab Docs</h4>
 🔶click to expand🔶
 </summary>
 <br>
