@@ -6,7 +6,8 @@ All links point to files that are hosted in my Github.</code></pre>
 
 | CSP | Type | Fun Fact | Article |
 | -------- | -------- | -------- | -------- | 
-| <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Community | I was featured in the [AWS Certified Global Community](https://aws-certification.influitive.com/forum/) in January                       2022 as the 2021 leaderboard Champion 😎🙌 (use scroll bar at bottom to adjust view)| [Article IMAGE](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/awscertcomm-JAN2022-Champ.png) |
+| <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Achievement | I was a speaker at AWS re:Inforce 2022 in Boston, MA 😎🙌 | [AWS Events Recording](https://www.youtube.com/watch?v=qzx_00l6_Gw) |
+| <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Achievement | I was featured in the [AWS Certified Global Community](https://aws-certification.influitive.com/forum/) in January                       2022 as the 2021 leaderboard Champion 😎🙌 (use scroll bar at bottom to adjust view)| [Article IMAGE](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/awscertcomm-JAN2022-Champ.png) |
 
 <details>
 <summary>
