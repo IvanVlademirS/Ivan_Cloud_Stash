@@ -1,5 +1,5 @@
 #### ⭐Welcome to my Cloud Write-ups Repo, ❗❗ReadMe:
-<pre><code>Scroll Down to view Tables: projects, documentation, and write-ups for Cloud.
+<pre><code>Scroll Down to view topics: projects, documentation, and write-ups for Cloud.
 All links point to files that are hosted in my Github.</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
