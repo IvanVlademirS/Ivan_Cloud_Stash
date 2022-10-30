@@ -1,6 +1,6 @@
 #### ⭐Welcome to my Cloud Repo
 📌ReadMe:
-Scroll Down to view my Cloud write-ups/notes > click links to view content.  
+Scroll down to view my Cloud write-ups/notes > click links to view content.  
 All links point to files that are hosted on my Github.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
