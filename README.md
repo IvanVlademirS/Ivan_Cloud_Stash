@@ -1,4 +1,4 @@
-#### ⭐Welcome to my Cloud Write-ups Repo
+#### ⭐Welcome to my Cloud Repo
 📌ReadMe:
 Scroll Down to view my write-ups/notes on projects, labs, and training for Cloud.
 All links point to files that are hosted on my Github.
@@ -12,7 +12,7 @@ All links point to files that are hosted on my Github.
 
 <details>
 <summary>
-<h4 align="left">  ☁️| Foundational Write_ups</h4>
+<h4 align="left">  ☁️| General Cloud Write-ups</h4>
 👉click to expand⚪️
 </summary>
 <br>
@@ -35,7 +35,7 @@ All links point to files that are hosted on my Github.
 
 <details>
 <summary>
-<h4 align="left">  📝| AWS SAA-CO2 Lab Docs</h4>
+<h4 align="left">  📝| AWS Lab Write-ups</h4>
 👉click to expand🟠
 </summary>
 <br>
