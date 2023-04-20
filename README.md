@@ -12,8 +12,22 @@ All links point to files that are hosted on my Github.
 
 <details>
 <summary>
-<h4 align="left">  ☁️| General Cloud Write-ups</h4>
-👉click to expand⚪️
+<h4 align="left">  ℊ | GCP Write-ups</h4>
+👉 click to expand 🟢
+</summary>
+<br>
+
+| Domain(s) | Topics | Write-up(s) | Associated Certification(s) |
+| -------- | -------- | -------- | -------- | 
+| Engineering | ACE Prep: Environment Setup, Planning & Config, Deploy & Implement, Ensuring Successful Ops, Secure Access | [mindmap](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S./Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S%20-%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S./Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S%20-%20OUTLINE.pdf) | [GCP ACE](https://cloud.google.com/learn/certification/cloud-engineer) |
+
+
+</details>
+
+<details>
+<summary>
+<h4 align="left">  ☁️ | General Cloud Write-ups</h4>
+👉 click to expand 🔴
 </summary>
 <br>
 
@@ -35,8 +49,8 @@ All links point to files that are hosted on my Github.
 
 <details>
 <summary>
-<h4 align="left">  📝| AWS Lab Write-ups</h4>
-👉click to expand🟠
+<h4 align="left">  📦 | AWS Lab Write-ups</h4>
+👉 click to expand 🟠
 </summary>
 <br>
 
