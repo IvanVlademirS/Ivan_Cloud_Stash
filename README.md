@@ -11,14 +11,15 @@
 
 <details>
 <summary>
-<h4 align="left">  ℊ | GCP Write-ups</h4>
+<h4 align="left">  ℊ | Google Cloud Write-ups</h4>
 👉 click to expand 🟢
 </summary>
 <br>
 
-| Domain(s) | Topics | Write-up(s) | Associated Certification(s) |
-| -------- | -------- | -------- | -------- | 
-| Engineering | ACE Prep: Environment Setup, Planning & Config, Deploy & Implement, Ensuring Successful Ops, Secure Access | [mindmap](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S./Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S%20-%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S./Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S%20-%20OUTLINE.pdf) | [GCP ACE](https://cloud.google.com/learn/certification/cloud-engineer) |
+| Domain(s) | Topics | Write-up(s) |
+| -------- | -------- | -------- |
+| Engineering | GCP Core Infrastructure: Overview, Resources & Access, VPC, Virtual Machines | [mindmap](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Core%20Infra/GCP%20Core%20Infrastructure%20Q2%202023%20Ivan%20Vlad%20S._MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Core%20Infra/Essential%20GCP%20Infra:%20Foundation%20%202023%20Ivan%20Vlad%20S_OUTLINE.pdf) |
+| Engineering | GCP Environment Setup, Planning & Config, Deploy & Implement, Ensuring Successful Ops, Secure Access | [mindmap](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S./Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S%20-%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S./Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S%20-%20OUTLINE.pdf) |
 
 
 </details>
