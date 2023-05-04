@@ -1,6 +1,7 @@
 #### ⭐Welcome to my Cloud Repo
 📌ReadMe: Scroll down to view my Cloud write-ups/notes > click links to view content.  
-💡 *All links point to files that are hosted on my Github.*
+💡 *NOTE: download mindmap PDF(s) for better quality/zoom*   
+💡 *All links point to files that are hosted on my Github.*  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,6 +19,7 @@
 
 | Domain(s) | Topics | Write-up(s) |
 | -------- | -------- | -------- |
+| Engineering | GCP Getting Started with GKE: Containers & K8s, K8s Architecture, K8s Workloads | [mindmap](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Getting%20Started%20with%20GKE/Getting%20Started%20with%20GKE%202023%20Ivan%20Vlad%20S_MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Getting%20Started%20with%20GKE/Getting%20Started%20with%20GKE%202023%20Ivan%20Vlad%20S_Outline.pdf) |
 | Engineering | GCP Core Services: IAM, Storage, Resource Mgmt, Resource Monitoring | [mindmap](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Infra%20Core%20Services/Essential%20GCP%20Infra:%20Core%20Services%20%202023%20Ivan%20Vlad%20S_MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Infra%20Core%20Services/Essential%20GCP%20Infra:%20Core%20Services%20%202023%20Ivan%20Vlad%20S_Outline.pdf) |
 | Engineering | GCP Core Infrastructure: Overview, Resources & Access, VPC, Virtual Machines | [mindmap](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Core%20Infra/GCP%20Core%20Infrastructure%20Q2%202023%20Ivan%20Vlad%20S._MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Core%20Infra/Essential%20GCP%20Infra:%20Foundation%20%202023%20Ivan%20Vlad%20S_OUTLINE.pdf) |
 | Engineering | GCP Environment Setup, Planning & Config, Deploy & Implement, Ensuring Successful Ops, Secure Access | [mindmap](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S./Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S%20-%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Cloud_Stash/blob/main/Cloud_Labs_Repo/Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S./Prep%20for%20ACE%20Journey%20%20Q2%202023%20Ivan%20Vlad%20S%20-%20OUTLINE.pdf) |
