@@ -10,10 +10,12 @@
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Achievement | I was a speaker at AWS re:Inforce 2022 in Boston, MA 😎🙌 | [AWS Events Recording](https://www.youtube.com/watch?v=qzx_00l6_Gw) |
 | <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a> | Achievement | I was featured in the [AWS Certified Global Community](https://aws-certification.influitive.com/forum/) in January                       2022 as the 2021 leaderboard Champion 😎🙌 (use scroll bar at bottom to adjust view)| [Article IMAGE](https://github.com/IvanVlademirS/Ivan_CloudLabs/blob/main/Cloud_Labs_Repo/AWS_Labs/awscertcomm-JAN2022-Champ.png) |
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <details>
 <summary>
 <h4 align="left">  ℊ | Google Cloud Write-ups</h4>
-👉 click to expand 🟢
+👉 click to expand 🔵
 </summary>
 <br>
 
@@ -29,10 +31,36 @@
 
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<details>
+<summary>
+<h4 align="left">  ☁️ | Cloud Certifications Write-ups</h4>
+👉click to expand 🟢
+</summary>
+<br>
+ 
+| Status | Certification | Notes | Badge Verification | Comments |
+| -------- | -------- | -------- | -------- | -------- |
+| ✔ | **SANS/GIAC GPCS**, *pass 03/1/22* | [SANS Info](https://www.sans.org/cyber-security-courses/public-cloud-security-aws-azure-gcp/)| [GPCS Badge](https://www.credly.com/badges/3724df22-c80d-4bcc-9eca-978d34bf11ee) | Used SANS provided materials, very fun Nimbus lab environment and course |
+| ✔ | **CCSP**, *pass 08/25/21* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Akulos Notes](https://ccsp.alukos.com/index/overview)| [CCSP Badge](https://www.credly.com/badges/e737afbb-498a-443c-8cd8-3aae514198a2) | *request access to my CCSP google drive for additional resources, if needed* |
+| ✔ | **AWS-Security**, *pass 2/14/22* | [Security Ramp-up](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Security.pdf) | [AWS-SCS Badge](https://www.credly.com/badges/5e92db58-b062-4012-83d5-04991c711d7f/public_url) | Used YouTube, Whitepapers, Ramp-up |
+| ✔ | **AWS-SAA**, *pass 7/24/21* | [SAA T-Dojo Guide](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/) | [AWS-SAA Badge](https://www.credly.com/badges/19d348f4-d1d7-4509-9b8c-6823652cb2e0/public_url) | Used AC Course, YouTube, Whitepapers |
+| ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP T-Dojo Guide](https://tutorialsdojo.com/aws-certified-cloud-practitioner/) | [AWS-CCP Badge](https://www.credly.com/badges/3500aedf-d646-423b-b116-ffc8f5079f6c) | Used YouTube |
+| ✔ | **CCSK**, *pass 01/08/2022* | [CCSK Bundle](https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle) | [CCSK Badge](https://www.credly.com/badges/1efd7725-9695-4b01-b966-9c3beb91f109/public_url) | Used CSSK Bundle with work Voucher |
+| ✔ | **SC-900**, *pass 03/17/22* | [Microsoft SC900 Training](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900)| [SC-900 Badge](https://www.credly.com/badges/b4aa9ddc-b6ec-4c2c-9033-c984ea906c0d) | Used Microsoft Free Training and Free Voucher |
+| ✔ | **AZ-900**, *pass 03/7/22* | [Azure AZ900 Training](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)| [AZ-900 Badge](https://www.credly.com/badges/184acee8-6906-4e26-9e93-ccbe016dfdb8/public_url) | Used Microsoft Free Training and Free Voucher |
+| ✔ | **AI-900**, *pass 03/14/22* | [Azure AI900 Training](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)| [AI-900 Badge](https://www.credly.com/badges/fc4d2330-8c65-46b6-bff8-eff6ffe863b3) | Used Microsoft Free Training and Free Voucher |
+| ✔ | **DP-900**, *pass 03/12/22* | [Azure DP900 Training](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)| [DP-900 Badge](https://www.credly.com/badges/e6b06cda-b53a-46d5-b303-0dd954c313b1) | Used Microsoft Free Training and Free Voucher |
+
+</details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <details>
 <summary>
 <h4 align="left">  ☁️ | General Cloud Write-ups</h4>
-👉 click to expand 🔴
+👉 click to expand 🟡
 </summary>
 <br>
 
@@ -51,11 +79,12 @@
 
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>
 <h4 align="left">  📦 | AWS Lab Write-ups</h4>
-👉 click to expand 🟠
+👉 click to expand 🔴
 </summary>
 <br>
 
