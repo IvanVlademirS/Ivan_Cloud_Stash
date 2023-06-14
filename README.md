@@ -35,7 +35,7 @@
 
 <details>
 <summary>
-<h4 align="left">  ☁️ | Cloud Certifications Write-ups</h4>
+<h4 align="left">  ✅ | Cloud Certifications Write-ups</h4>
 👉click to expand 🟢
 </summary>
 <br>
